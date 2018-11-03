@@ -1807,7 +1807,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f6f;
+  background: #4adbff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2647,6 +2647,6 @@ embed {
   display: inline-block;
 }
 body {
-  background: url("/images/bg_alma_sunset.jpg");
+  background: url("../images/bg_alma_sunset.jpg");
   background-attachment: fixed;
 }
